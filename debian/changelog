@@ -1,3 +1,9 @@
+vtk6 (6.3.0+dfsg1-1~exp2ubuntu1) xenial; urgency=medium
+
+  * Packaged for Faraadid Company
+
+ -- Navid Khazaee (nkhdiscovery) <navid.khazaee@gmail.com>  Tue, 14 Feb 2017 17:53:20 +0330
+
 vtk6 (6.3.0+dfsg1-1~exp2) experimental; urgency=medium
 
   * [35606f3] d/control: Correct libvtk6-jni conflicts version to exclude 
