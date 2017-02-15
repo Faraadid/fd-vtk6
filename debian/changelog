@@ -1,4 +1,5 @@
-vtk6 (6.3.0+dfsg1-1~exp2ubuntu1) xenial; urgency=medium
+fd-vtk6 (6.3.0+dfsg1-1~exp2ubuntu2) xenial; urgency=medium
+
 
   * Packaged for Faraadid Company
 
